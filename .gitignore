@@ -1,0 +1,13 @@
+# Flutter
+frontend/login_app/build/
+frontend/login_app/.dart_tool/
+frontend/login_app/.flutter-plugins
+frontend/login_app/.flutter-plugins-dependencies
+frontend/login_app/.packages
+
+# PHP
+backend/login_system/vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
