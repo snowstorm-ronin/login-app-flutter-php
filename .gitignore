@@ -1,3 +1,7 @@
+# Sensitive files - DO NOT COMMIT
+backend/login_system/config.php
+backend/login_system/send_otp_email.php
+
 # Flutter
 frontend/login_app/build/
 frontend/login_app/.dart_tool/
@@ -5,7 +9,7 @@ frontend/login_app/.flutter-plugins
 frontend/login_app/.flutter-plugins-dependencies
 frontend/login_app/.packages
 
-# PHP
+# PHP dependencies
 backend/login_system/vendor/
 
 # OS files
